@@ -1,0 +1,40 @@
+Ashutosh Pulate5:08 PM
+Task1 : Java Local environment setup
+Subtask 1 : Java local env setup Jayanth
+Subtask 2 : Java local env setup Prudhvi
+Task2 : UI Local environment setup 
+Subtask 1 : Java local env setup Tushar
+Subtask 2 : Java local env setup Nikhila
+Ashutosh Pulate5:10 PM
+Task3 : Java code flow understanding 
+Subtask 1 : Java code flow understanding Jayanth
+Subtask 2 : Java code flow understanding Prudhvi
+Task4 : UI code flow understanding 
+Subtask 1 : UI code flow understanding Tushar
+Subtask 2 : UI code flow understanding Nikhila
+Ashutosh Pulate5:11 PM
+Task5 : Setting up GIT and branching process
+Subtask 1 : Setting up GIT and branching process Rajat
+Task6 : Setting up CI pipeline for JAva 
+Subtask 1 :Setting up CI pipeline for JAva  Rajat
+Task7 : Setting up CI pipeline for UI 
+Subtask 1 :Setting up CI pipeline for UI  Rajat
+Ashutosh Pulate5:12 PM
+Task7 : Analyze to develop CD using Terraform
+Subtask 1 :Analyze to develop CD using Terraform Rajat
+Ashutosh Pulate5:13 PM
+Task8 : Prepare automation framework for UI using Selenium
+Subtask 1 :Prepare automation framework for UI using Selenium Jayshri
+Subtask 2 :Prepare automation framework for UI using Selenium Alka
+Task8 : Prepare automation framework for API using Selenium
+Subtask 1 :Prepare automation framework for API using Selenium Jayshri
+Subtask 2 :Prepare automation framework for API using Selenium Alka
+Ashutosh Pulate5:15 PM
+Task8 : Write some sample test cases for enquiry module
+Subtask 1 :Write some sample test cases for enquiry module Alka
+Task8 : Write some sample test cases for Admin module
+Subtask 1 :Write some sample test cases for enquiry module Jayashri
+Ashutosh Pulate5:16 PM
+Task8 : Understand Database table and relations and prepare ERD
+Task8 : Work with Devops to setup Database on AWS
+Task8 : Analyze and come up with the approach how can we optimize the DB tables or normalize
